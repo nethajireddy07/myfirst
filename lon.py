@@ -1,0 +1,1 @@
+print("never be alone")
